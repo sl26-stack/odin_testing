@@ -1,0 +1,25 @@
+{
+  "name": "odin_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sl26-stack/odin_testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/sl26-stack/odin_testing/issues"
+  },
+  "homepage": "https://github.com/sl26-stack/odin_testing#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.29.7",
+    "jest": "^30.5.2"
+  }
+}
